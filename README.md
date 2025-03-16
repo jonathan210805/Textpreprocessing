@@ -1,0 +1,2 @@
+# Textpreprocessing
+preprocessing sederhana sir 
