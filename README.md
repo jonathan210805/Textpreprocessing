@@ -22,9 +22,9 @@ Classification Report:
      Basmati       0.99      0.99      0.99      2250
       Ipsala       1.00      1.00      1.00      2250
      Jasmine       0.99      0.99      0.99      2250
-   Karacadag       0.98      0.99      0.98      2250
+    Karacadag       0.98      0.99      0.98      2250
 
     accuracy                           0.99     11250
-   macro avg       0.99      0.99      0.99     11250
-weighted avg       0.99      0.99      0.99     11250
+    macro avg       0.99      0.99      0.99     11250
+    weighted avg       0.99      0.99      0.99     11250
 
